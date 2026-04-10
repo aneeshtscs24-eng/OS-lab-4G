@@ -41,7 +41,6 @@ int main() {
             }
         }
 
-        // If no process is ready, increment time
         if(executed == 0)
             time++;
     }
